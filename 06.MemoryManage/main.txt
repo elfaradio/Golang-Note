@@ -1,0 +1,17 @@
+new()--->>>>
+Allocate memory but no INITIALIZATION
+memory address
+zeroed storage// cannot put any data initialy
+
+
+make()---->>>>
+INIT
+memory
+non-zeroed// can
+
+
+
+
+ALl--  go runtime pkg /link
+Garbage collector auto 
+Out of scope or nil

@@ -1,0 +1,2 @@
+# GoLange Notes
+
