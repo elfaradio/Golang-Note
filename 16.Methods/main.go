@@ -27,7 +27,7 @@ func (u User) Getage() { // getter
 
 }
 
-func (u User) SetName() { // pass by value not changing main value  ... pointer can change main value
+func (u User) SetName() { // pass by value not... changing main value  ... pointer can change main value
 
 	//u.name = "rakib"
 }
