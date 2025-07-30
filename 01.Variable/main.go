@@ -214,5 +214,13 @@ func extra() {
 
 	   Variables with names starting with uppercase letters are exported from the package and accessible outside the package.
 	*/
+/*
+	const (
+    A = iota // 0
+    B        // 1
+    C        // 2
+)
+*/
+
 
 }
